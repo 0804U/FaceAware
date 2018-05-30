@@ -35,7 +35,8 @@ There's one for Swift 3.0 and 2.3 however the example project will only run in X
 
 #### Carthage ####
 - Add `github "BeauNouvelle/FaceAware"` to your `Cartfile`
-- Add `import FaceAware` to the top of your Swift files where you wish to use it.
+
+Further instructions on using Carthage can be found at https://github.com/Carthage/Carthage
 
 #### Cocoapods ####
 - Add `pod 'FaceAware'` to your pod file.
